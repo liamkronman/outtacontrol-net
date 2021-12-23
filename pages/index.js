@@ -171,6 +171,10 @@ export default function Home() {
             width: 100%;
             flex-direction: column;
           }
+
+          .title {
+            font-size: 4rem;
+          }
         }
       `}</style>
 
