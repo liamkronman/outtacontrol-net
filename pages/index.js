@@ -13,10 +13,10 @@ export default function Home() {
         </h1>
 
         <div className="grid">
-          <a href="https://exexex.io" className="card">
+          {/* <a href="https://exexex.io" className="card">
             <h3>ExExEx &rarr;</h3>
             <p>Date your exes' exes' exes.</p>
-          </a>
+          </a> */}
 
           <a href="https://superlatives.app" className="card">
             <h3>Superlatives &rarr;</h3>
