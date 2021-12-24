@@ -99,8 +99,7 @@ export default function Home() {
         .title {
           margin: 0;
           line-height: 1.15;
-          font-size: 6rem;
-          font-family: 'Island Moments', cursive;
+          font-size: 4rem;
         }
 
         .title,
