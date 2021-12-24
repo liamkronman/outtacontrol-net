@@ -172,7 +172,7 @@ export default function Home() {
           }
 
           .title {
-            font-size: 4rem;
+            font-size: 3rem;
           }
         }
       `}</style>
